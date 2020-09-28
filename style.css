@@ -20,6 +20,10 @@ nav{
     height: 20vh;
 }
 
+nav span{
+    color: red;
+}
+
 li{
     list-style: none;
     padding: 10px;
