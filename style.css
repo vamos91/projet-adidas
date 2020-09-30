@@ -29,6 +29,22 @@ li{
     padding: 10px;
 }
 
+a{
+    text-decoration: none;
+}
+
+section{
+    width: 60%;
+    margin: 200px auto;
+}
+
+footer{
+    height: 400px;
+    background-color: rgb(231, 149, 9);
+    color: white;
+    font-size: 72px;
+}
+
 .center{
     display: flex;
     align-items: center;
@@ -39,7 +55,14 @@ li{
     text-align: center;
     height: 80vh;
     color: white;
-    background-image: url('img.jpg')
+    background-image: linear-gradient(rgba(231, 149, 9, 0.4), rgba(231, 149, 9, 0.4)), url('img.jpg');
+}
+
+.banner-contact{
+    text-align: center;
+    height: 40vh;
+    color: white;
+    background-image: linear-gradient(rgba(231, 149, 9, 0.4), rgba(231, 149, 9, 0.4)), url('img.jpg');
 }
 
 .fond-titre{
