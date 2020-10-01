@@ -55,14 +55,14 @@ footer{
     text-align: center;
     height: 80vh;
     color: white;
-    background-image: linear-gradient(rgba(231, 149, 9, 0.4), rgba(231, 149, 9, 0.4)), url('img.jpg');
+    background-image: linear-gradient(rgba(231, 149, 9, 0.4), rgba(231, 149, 9, 0.4)), url('../images/img.jpg');
 }
 
 .banner-contact{
     text-align: center;
     height: 40vh;
     color: white;
-    background-image: linear-gradient(rgba(231, 149, 9, 0.4), rgba(231, 149, 9, 0.4)), url('img.jpg');
+    background-image: linear-gradient(rgba(231, 149, 9, 0.4), rgba(231, 149, 9, 0.4)), url('../images/img.jpg');
 }
 
 .fond-titre{
